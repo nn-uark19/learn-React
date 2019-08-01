@@ -1,0 +1,8 @@
+# NN files
+z-*
+
+# development files
+node_modules
+
+# system file
+.DS_Store
